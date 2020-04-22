@@ -50,7 +50,8 @@ router.post("/login", (req, res) => {
 
 
 // logout
-
+// this is implemented on the frontend by removing the token
+// https://stackoverflow.com/questions/37959945/how-to-destroy-jwt-tokens-on-logout
 
 
 
