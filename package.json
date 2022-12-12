@@ -20,7 +20,7 @@
   "homepage": "https://github.com/kp1129/movies-app-backend#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.22.0",
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.21.0",
